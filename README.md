@@ -6,5 +6,5 @@ FreeCodeCamp: Image Search Abstraction Layer
         3) I can get a list of the most recently submitted search strings.
         
         Example URL's:
-        https://image-search-abstraction-layer-lelo81.c9users.io/api/imagesearch/lolcats%20funny?offset=10
-        https://image-search-abstraction-layer-lelo81.c9users.io/api/latest/imagesearch/
+        https://img-search-abstractionlayer.herokuapp.com/api/imagesearch/lolcats%20funny?offset=10
+        https://img-search-abstractionlayer.herokuapp.com/api/latest/imagesearch/
